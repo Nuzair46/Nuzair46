@@ -21,7 +21,7 @@
 <p>
 	<img width="50px" alt = "Github" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>
 	<img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ >
-	<img alt = "Sublime" src = "https://www.sublimetext.com/images/logo.svg"/>
+	<img width = "50px" alt = "Sublime" src = "https://cdn.discordapp.com/attachments/765212635632894004/800398326566092820/pngegg.png"/>
 	<img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/>
 	<img width="50px" alt="Discord.py" src="https://cdn.discordapp.com/icons/336642139381301249/3aa641b21acded468308a37eef43d7b3.png"/>
 </p>
@@ -36,11 +36,11 @@
 
 [![Rednek's github stats](https://github-readme-stats.vercel.app/api?username=rednek46&show_icons=true&theme=radical&count_private=true)](https://rednek46.github.io)	
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rednek46&layout=compact)](https://github.com/rednek46)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rednek46&layout=compact&theme=radical)](https://github.com/rednek46)
 
 
 
-###Contact me.
+### Contact me.
 
-- [<img width = "50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord"/>]
+- [<img width = "50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord"/>](https://discord.gg/SzAddKX)
 
