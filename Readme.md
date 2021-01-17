@@ -38,7 +38,7 @@
 
 [![Rednek's github stats](https://github-readme-stats.vercel.app/api?username=rednek46&show_icons=true&theme=radical&count_private=true)](https://rednek46.github.io)	
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rednek46&layout=compact&theme=radical)](https://github.com/rednek46)
+<!--- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rednek46&layout=compact&theme=radical)](https://github.com/rednek46) --->
 
 
 
