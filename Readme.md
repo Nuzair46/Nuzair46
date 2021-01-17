@@ -1,6 +1,6 @@
 ### Yo, I'm Rednek.
 
-[![Discord](https://discord.com/api/guilds/696037194288201768/widget.png)](https://discord.gg/SzAddKX) [<img alt = "Website" src = "https://img.shields.io/badge/My-Website-brightgreen"/>](https://rednek46.github.io)
+[![Discord](https://discord.com/api/guilds/696037194288201768/widget.png)](https://discord.gg/SzAddKX) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://rednek46.github.io)
 
 - I'm an Engineering student at FISAT, India.
 - I code for fun and play games mostly.
@@ -10,11 +10,11 @@
 ## Languages.
 
 <p>
-	<a href="https://www.python.org/"><img alt="Python" src = "https://img.shields.io/badge/-Python-000080?style=flat-square&logo=Python&logoColor=yellow"/></a>
-	<a href="https://www.w3.org/TR/2017/REC-html52-20171214/"><img alt="Html5" src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-	<a href="https://www.w3.org/TR/CSS/#css"><img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" /></a>
-	<a href="http://www.open-std.org/jtc1/sc22/wg14/"><img alt="CLang" src="https://img.shields.io/badge/-Lang-21B500?style=flat-square&logo=C&logoColor=white" /></a>
-	<a href=""><img alt="php" src="https://img.shields.io/badge/-php-000080?style=flat-square&logo=php&logoColor=white" /></a>
+	<a href="https://www.python.org/"><img alt="Python" src = "https://img.shields.io/badge/-Python-000080?logo=Python&logoColor=yellow"/></a>
+	<a href="https://www.w3.org/TR/2017/REC-html52-20171214/"><img alt="Html5" src = "https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/></a>
+	<a href="https://www.w3.org/TR/CSS/#css"><img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?logo=css3&logoColor=white" /></a>
+	<a href="http://www.open-std.org/jtc1/sc22/wg14/"><img alt="CLang" src="https://img.shields.io/badge/-Lang-21B500?logo=C&logoColor=white" /></a>
+	<a href=""><img alt="php" src="https://img.shields.io/badge/-php-000080?logo=php&logoColor=white" /></a>
 </p>
 
 ## Tools and API.
