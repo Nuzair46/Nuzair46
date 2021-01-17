@@ -21,9 +21,9 @@
 <p>
 	<img width="50px" alt = "Github" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>
 	<img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ >
-	<img width="50px" alt = "Sublime" src = "https://www.sublimetext.com/images/logo.svg"/>
+	<img alt = "Sublime" src = "https://www.sublimetext.com/images/logo.svg"/>
 	<img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/>
-	<img width="50px" alt="Discord.py" src="https://cdn.discordapp.com/icons/336642139381301249/3aa641b21acded468308a37eef43d7b3.png?size=50"/>
+	<img width="50px" alt="Discord.py" src="https://cdn.discordapp.com/icons/336642139381301249/3aa641b21acded468308a37eef43d7b3.png"/>
 </p>
 
 ## Works.
