@@ -14,7 +14,7 @@
 	<a href="https://www.w3.org/TR/2017/REC-html52-20171214/"><img alt="Html5" src = "https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/></a>
 	<a href="https://www.w3.org/TR/CSS/#css"><img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?logo=css3&logoColor=white" /></a>
 	<a href="http://www.open-std.org/jtc1/sc22/wg14/"><img alt="CLang" src="https://img.shields.io/badge/-Lang-21B500?logo=C&logoColor=white" /></a>
-	<a href=""><img alt="php" src="https://img.shields.io/badge/-php-000080?logo=php&logoColor=white" /></a>
+	<a href=""><img alt="php" src="https://img.shields.io/badge/-php-bdd7ee?logo=php&logoColor=white" /></a>
 </p>
 
 ## Tools and API.
