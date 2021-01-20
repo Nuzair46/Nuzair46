@@ -1,6 +1,6 @@
 ### Yo, I'm Rednek.
 
-[![Discord](https://discord.com/api/guilds/696037194288201768/widget.png)](https://discord.gg/SzAddKX) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://rednek46.github.io)
+[![Discord](https://discord.com/api/guilds/696037194288201768/widget.png)](https://discord.gg/SzAddKX) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://rednek46.me)
 
 - I'm an Engineering student at FISAT, India.
 - I code for fun and play games mostly.
