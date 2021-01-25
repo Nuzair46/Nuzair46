@@ -7,6 +7,10 @@
 - My Favorite Programming Language is Python.
 - I mostly use [Sublime Text](https://www.sublimetext.com/) for coding.
 
+## Stats.
+
+[![Rednek's github stats](https://github-readme-stats.vercel.app/api?username=rednek46&show_icons=true&theme=radical&count_private=true)](https://rednek46.github.io)
+
 ## Languages.
 
 <p>
@@ -16,6 +20,8 @@
 	<a href="http://www.open-std.org/jtc1/sc22/wg14/"><img alt="CLang" src="https://img.shields.io/badge/-Lang-21B500?logo=C&logoColor=white" /></a>
 	<a href=""><img alt="php" src="https://img.shields.io/badge/-php-bdd7ee?logo=php&logoColor=white" /></a>
 </p>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rednek46&layout=compact&theme=radical)](https://github.com/rednek46)
 
 ## Tools and API.
 
@@ -33,12 +39,9 @@
 - [Galactic Bot.](https://top.gg/bot/764164847238643774)
 - [Webcam UDP Streaming.](https://github.com/rednek46/UDP-Streaming)
 - [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/)
+	
 
-## Stats.
-
-[![Rednek's github stats](https://github-readme-stats.vercel.app/api?username=rednek46&show_icons=true&theme=radical&count_private=true)](https://rednek46.github.io)	
-
-<!--- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rednek46&layout=compact&theme=radical)](https://github.com/rednek46) --->
+<!---  --->
 
 
 
