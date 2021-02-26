@@ -39,6 +39,7 @@
 - [Galactic Bot.](https://top.gg/bot/764164847238643774)
 - [Webcam UDP Streaming.](https://github.com/rednek46/UDP-Streaming)
 - [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/)
+- [EssentialCV](https://pypi.org/project/EssentialCV/)
 	
 
 <!---  --->
