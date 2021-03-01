@@ -1,6 +1,8 @@
 ### Yo, I'm Rednek.
 
-[![Discord](https://discord.com/api/guilds/696037194288201768/widget.png)](https://discord.gg/SzAddKX) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://rednek46.me)
+[![Discord](https://discord.com/api/guilds/696037194288201768/widget.png)](https://discord.gg/SzAddKX) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://rednek46.me)  
+
+
 
 - I'm an Engineering student at FISAT, India.
 - I code for fun and play games mostly.
@@ -38,7 +40,7 @@
 - [Lofi Chill 24/7.](https://top.gg/bot/794627202775777303)
 - [Galactic Bot.](https://top.gg/bot/764164847238643774)
 - [Webcam UDP Streaming.](https://github.com/rednek46/UDP-Streaming)
-- [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/)
+- [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm)  
 - [EssentialCV](https://pypi.org/project/EssentialCV/)
 	
 
