@@ -37,7 +37,7 @@
 
 ## My Works.
 
-- [Lofi Chill 24/7.](https://top.gg/bot/794627202775777303)
+- [ChillBot Premium](https://top.gg/bot/793143330455420938)
 - [Galactic Bot.](https://top.gg/bot/764164847238643774)
 - [Webcam UDP Streaming.](https://github.com/rednek46/UDP-Streaming)
 - [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm)  
