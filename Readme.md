@@ -5,9 +5,7 @@
 
 
 - I'm an Engineering student at FISAT, India.
-- I code for fun and play games mostly.
-- My Favorite Programming Language is Python.
-- I mostly use [Sublime Text](https://www.sublimetext.com/) for coding.
+- I'm the developer behind [ChillBot Free/Premium](https://top.gg/bot/793143330455420938).
 
 ## Stats.
 
