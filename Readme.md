@@ -2,7 +2,7 @@
 
 [![Discord](https://discord.com/api/guilds/696037194288201768/widget.png)](https://discord.gg/SzAddKX) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://rednek46.me)  
 
-
+![](https://komarev.com/ghpvc/?username=rednek46&color=blueviolet&label=VIEWS)
 
 - I'm an Engineering student at FISAT, India.
 - I'm the developer behind [ChillBot Free/Premium](https://top.gg/bot/793143330455420938).
