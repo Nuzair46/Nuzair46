@@ -46,7 +46,8 @@
 
 
 
-### Contact me on:
+### Personal Contact:
 
-[<img width = "50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord"/>](https://discord.gg/SzAddKX)
-
+* Discord: [![Discord](https://discord.com/api/guilds/696037194288201768/widget.png)](https://discord.gg/SzAddKX)  
+* For official contact: nuzer501@gmail.com
+* Do not contact on my personal links for any support. Use their respective discord or open an issue. 
