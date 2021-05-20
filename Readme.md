@@ -1,6 +1,6 @@
 ### Yo, I'm Rednek.
 
-[![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://rednek46.me)  ![](https://komarev.com/ghpvc/?username=rednek46&color=blueviolet&label=PROFILE+VIEWS)
+[![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://rednek46.me)  ![](https://komarev.com/ghpvc/?username=Nuzair46&color=blueviolet&label=PROFILE+VIEWS)
 
 
 
@@ -9,7 +9,7 @@
 
 ## Stats.
 
-[![Rednek's github stats](https://github-readme-stats.vercel.app/api?username=rednek46&show_icons=true&theme=radical&count_private=true)](https://rednek46.github.io)
+[![Rednek's github stats](https://github-readme-stats.vercel.app/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true)](https://rednek46.github.io)
 
 ## Languages.
 
@@ -21,7 +21,7 @@
 	<a href=""><img alt="php" src="https://img.shields.io/badge/-php-bdd7ee?logo=php&logoColor=white" /></a>
 </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rednek46&layout=compact&theme=radical)](https://github.com/rednek46)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzair46&layout=compact&theme=radical)](https://github.com/rednek46)
 
 ## Tools and API.
 
