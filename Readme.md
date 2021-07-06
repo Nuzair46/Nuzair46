@@ -4,7 +4,7 @@
 
 
 
-- I'm an Engineering student at FISAT, India.
+- I'm a Engineering graduate from FISAT, India.
 - I'm the developer behind [ChillBot Free/Premium](https://chillbot.me).
 
 ## Stats.
