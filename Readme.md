@@ -1,11 +1,11 @@
 ### Yo, I'm Rednek.
 
-[![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://rednek46.me)  ![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)
+[![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://rednek46.me)  [![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)](https://takeb1nzyto.space)
 
 
-
-- I'm a Engineering graduate from FISAT, India.
-- I'm the developer behind [ChillBot Free/Premium](https://chillbot.me).
+- Software Engineer [@BigBinary](https://www.bigbinary.com/).
+- Graduated Engineering from FISAT, India.
+- Developer behind [ChillBot Premium](https://chillbot.me).
 
 ## Stats.
 
@@ -37,7 +37,7 @@
 
 - [ChillBot Premium](https://chillbot.me) [![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N) 
 - [Galactic Bot.](https://top.gg/bot/764164847238643774)
-- [Webcam UDP Streaming.](https://github.com/rednek46/UDP-Streaming)
+- [Torrent2Mega.](https://github.com/rednek46/torrent2mega)
 - [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm)  
 - [EssentialCV](https://pypi.org/project/EssentialCV/)
 	
