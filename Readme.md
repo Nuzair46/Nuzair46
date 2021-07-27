@@ -1,17 +1,17 @@
 ### Yo, I'm Rednek.
 
-[![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://rednek46.me)  [![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)](https://takeb1nzyto.space)
+[![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://rednek46.me)  ![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)
 
 
 - Software Engineer [@BigBinary](https://www.bigbinary.com/).
 - Graduated Engineering from FISAT, India.
 - Developer behind [ChillBot Premium](https://chillbot.me).
 
-## Stats.
+## Stats[:](https://youtu.be/dQw4w9WgXcQ)
 
 [![Rednek's github stats](https://github-readme-stats.vercel.app/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true)](https://rednek46.github.io)
 
-## Languages.
+## Languages:
 
 <p>
 	<a href="https://www.python.org/"><img alt="Python" src = "https://img.shields.io/badge/-Python-000080?logo=Python&logoColor=yellow"/></a>
@@ -23,7 +23,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzair46&layout=compact&theme=radical)](https://github.com/rednek46)
 
-## Tools and API.
+## Tools and API:
 
 <p>
 	<a href="https://github.com/"><img width="50px" alt = "Github" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/></a>
@@ -33,7 +33,7 @@
 	<a href="https://github.com/Rapptz/discord.py"><img width="50px" alt="Discord.py" src="https://cdn.discordapp.com/icons/336642139381301249/3aa641b21acded468308a37eef43d7b3.png"/></a>
 </p>
 
-## My Works.
+## My Works:
 
 - [ChillBot Premium](https://chillbot.me) [![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N) 
 - [Galactic Bot.](https://top.gg/bot/764164847238643774)
