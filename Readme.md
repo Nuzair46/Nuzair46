@@ -34,7 +34,8 @@
 
 <!---  --->
 
-
+## Status
+[![Discord Presence](https://lanyard.cnrad.dev/api/428944701094363146)](https://discord.com/users/428944701094363146)
 
 ### Personal Contact:
 
