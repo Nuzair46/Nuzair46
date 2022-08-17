@@ -32,11 +32,12 @@
 - [EssentialCV](https://pypi.org/project/EssentialCV/)
 	
 
-<!---  --->
+<!---
 
 ## Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/428944701094363146)](https://discord.com/users/428944701094363146)
 
+--->
 ### Personal Contact:
 
 * Discord: [![Discord](https://discord.com/api/guilds/696037194288201768/widget.png)](https://discord.gg/SzAddKX)  
