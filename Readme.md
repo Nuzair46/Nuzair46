@@ -40,5 +40,5 @@
 --->
 ### Personal Contact:
 
-* Discord: [![Discord](https://discord.com/api/guilds/696037194288201768/widget.png)](https://discord.gg/SzAddKX)  
+* [Discord](https://discordapp.com/users/428944701094363146/)  
 * For official contact: nuzer501@gmail.com
