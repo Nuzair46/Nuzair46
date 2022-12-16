@@ -13,7 +13,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzair46&layout=compact&theme=radical&hide_border=true)](https://rednek46.me)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nuzair46&theme=radical&hide_border=true&border_radius=6&background=141320&border=DDDDDD)](https://rednek46.me)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuzair46&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)](https://rednek46.me)
 
 ## Tools and Frameworks:
 
