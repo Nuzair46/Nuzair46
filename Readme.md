@@ -9,11 +9,11 @@
 
 ## Stats[:](https://youtu.be/dQw4w9WgXcQ)
 
-[![Rednek's github stats](https://github-readme-stats.vercel.app/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://rednek46.me)
+[![Rednek's github stats](https://github-readme-stats.vercel.app/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://redisa.dev) 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzair46&layout=compact&theme=radical&hide_border=true)](https://rednek46.me)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzair46&layout=compact&theme=radical&hide_border=true)](https://redisa.dev) 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nuzair46&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)](https://rednek46.me)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuzair46&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)](https://redisa.dev) 
 
 ## Tools and Frameworks:
 
