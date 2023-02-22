@@ -29,7 +29,7 @@
 
 - [ChillBot Premium](https://chillbot.me) [![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N) 
 - [Galactic Bot.](https://top.gg/bot/764164847238643774)
-- [Torrent2Mega.](https://github.com/rednek46/torrent2mega)
+- [Torrent2Mega.](https://github.com/nuzair46/torrent2mega)
 - [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm)  
 - [EssentialCV](https://pypi.org/project/EssentialCV/)
 	
