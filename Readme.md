@@ -1,6 +1,6 @@
 ### Yo, I'm Red.
 
-[![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N) [<img alt = "Website" src = "https://img.shields.io/badge/-https://redisa.dev-A020F0"/>](https://redisa.dev)  ![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)
+[![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm) [<img alt = "Website" src = "https://img.shields.io/badge/-https://redisa.dev-A020F0"/>](https://redisa.dev)  ![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)
 
 
 - Software Engineer [@BigBinary](https://www.bigbinary.com/).
