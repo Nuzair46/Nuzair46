@@ -1,19 +1,18 @@
 ### Yo, I'm Red.
 
-[![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm) [<img alt = "Website" src = "https://img.shields.io/badge/-https://redisa.dev-A020F0"/>](https://redisa.dev)  ![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)
+[![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm) [<img alt = "Website" src = "https://img.shields.io/badge/-https://redisa.dev-A020F0"/>](https://redisa.dev) ![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)
 
-
-- Software Engineer [@BigBinary](https://www.bigbinary.com/).
+- Ex-Software Engineer [@BigBinary](https://www.bigbinary.com/).
 - Graduated Engineering from FISAT, India.
 - Developer behind [ChillBot Premium](https://chillbot.me).
 
 ## Stats[:](https://youtu.be/dQw4w9WgXcQ)
 
-[![Rednek's github stats](https://github-readme-stats.vercel.app/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://redisa.dev) 
+[![Rednek's github stats](https://github-readme-stats.vercel.app/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://redisa.dev)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzair46&layout=compact&theme=radical&hide_border=true)](https://redisa.dev) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzair46&layout=compact&theme=radical&hide_border=true)](https://redisa.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nuzair46&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)](https://redisa.dev) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuzair46&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)](https://redisa.dev)
 
 ## Tools and Frameworks:
 
@@ -27,12 +26,11 @@
 
 ## My Works:
 
-- [ChillBot Premium](https://chillbot.me) [![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N) 
+- [ChillBot Premium](https://chillbot.me) [![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N)
 - [Galactic Bot.](https://top.gg/bot/764164847238643774)
 - [Torrent2Mega.](https://github.com/nuzair46/torrent2mega)
-- [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm)  
+- [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm)
 - [EssentialCV](https://pypi.org/project/EssentialCV/)
-	
 
 <!---
 
@@ -40,7 +38,8 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/428944701094363146)](https://discord.com/users/428944701094363146)
 
 --->
+
 ### Personal Contact:
 
-* [Discord](https://discordapp.com/users/428944701094363146/)  
-* For official contact: nuzer501@gmail.com
+- [Discord](https://discordapp.com/users/428944701094363146/)
+- For official contact: nuzer501@gmail.com
