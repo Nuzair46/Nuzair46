@@ -2,7 +2,7 @@
 
 [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm) [<img alt = "Website" src = "https://img.shields.io/badge/-https://redisa.dev-A020F0"/>](https://redisa.dev) ![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)
 
-- Currently living in Tokyo.
+- Currently living in Tokyo working for @MoneyForward.
 - Ex-Software Engineer [@BigBinary](https://www.bigbinary.com/).
 - Graduated Engineering from FISAT, India.
 - Developer behind [ChillBot Premium](https://chillbot.me).
