@@ -1,6 +1,6 @@
 ### Yo, I'm Red.
 
-[![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm) [<img alt = "Website" src = "https://img.shields.io/badge/-https://redisa.dev-A020F0"/>](https://redisa.dev) ![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)
+[![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/eYudMwgYtY) [<img alt = "Website" src = "https://img.shields.io/badge/-https://redisa.dev-A020F0"/>](https://redisa.dev) ![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)
 
 - Currently living in Tokyo working for [@MoneyForward](https://moneyforward.com/).
 - Ex-Software Engineer [@BigBinary](https://www.bigbinary.com/).
@@ -31,7 +31,7 @@
 - [ChillBot Premium](https://chillbot.me) [![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N)
 - [Galactic Bot.](https://top.gg/bot/764164847238643774)
 - [Torrent2Mega.](https://github.com/nuzair46/torrent2mega)
-- [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm)
+- [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/eYudMwgYtY)
 - [EssentialCV](https://pypi.org/project/EssentialCV/)
 
 <!---
