@@ -1,6 +1,6 @@
 ### Yo, I'm Red.
 
-[![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/eYudMwgYtY) [<img alt = "Website" src = "https://img.shields.io/badge/-https://redisa.dev-A020F0"/>](https://redisa.dev) ![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)
+[![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/eYudMwgYtY) [<img alt = "Website" src = "https://img.shields.io/badge/Portfolio-redisa.dev-purple"/>](https://redisa.dev) ![](https://komarev.com/ghpvc/?username=Rednek46&color=blueviolet&label=PROFILE+VIEWS)
 
 - Currently living in Tokyo working for [@MoneyForward](https://moneyforward.com/).
 - Ex-Software Engineer [@BigBinary](https://www.bigbinary.com/).
@@ -9,7 +9,7 @@
 
 ## Stats[:](https://youtu.be/dQw4w9WgXcQ)
 
-[![Rednek's github stats](https://github-readme-stats.vercel.app/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://redisa.dev)
+[![Red's github stats](https://github-readme-stats.vercel.app/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://redisa.dev)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzair46&layout=compact&theme=radical&hide_border=true)](https://redisa.dev)
 
@@ -26,22 +26,17 @@
 	<a title="Tailwind CSS, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg"><img width="50" alt="Tailwind CSS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/64px-Tailwind_CSS_Logo.svg.png"></a>
 </p>
 --->
+
 ## My Works:
 
 - [ChillBot Premium](https://chillbot.me) [![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N)
-- [Galactic Bot.](https://top.gg/bot/764164847238643774)
-- [Torrent2Mega.](https://github.com/nuzair46/torrent2mega)
-- [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/eYudMwgYtY)
+- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot/) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/eYudMwgYtY)
+- [BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac/) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/eYudMwgYtY)
 - [EssentialCV](https://pypi.org/project/EssentialCV/)
+- [Copy Bone Transforms](https://github.com/Nuzair46/Copy-Bone-Transforms)
+- [Lyrixed](https://github.com/Nuzair46/Lyrixed)
+- [ask_gpt](https://github.com/Nuzair46/ask_gpt)
 
-<!---
+## Contact Me:
 
-## Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/428944701094363146)](https://discord.com/users/428944701094363146)
-
---->
-
-### Personal Contact:
-
-- [Discord](https://discordapp.com/users/428944701094363146/)
-- For official contact: nuzer501@gmail.com
+Email me at [red@redisa.dev](mailto:red@redisa.dev) or check out my [website](https://redisa.dev) for more contact options.
