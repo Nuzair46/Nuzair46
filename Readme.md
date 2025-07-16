@@ -14,11 +14,12 @@
 - Love Ruby on Rails[,](https://youtu.be/dQw4w9WgXcQ) Learning Go.
 - Tech lead at [MoneyForward](https://moneyforward.com/) in the morning, [Miqor](https://miqor.com/) and Open Source contribution by night. 
 - Ex-Software Engineer [BigBinary](https://www.bigbinary.com/).
-
-[![Red's github stats](https://github-readme-stats.vercel.app/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://redisa.dev) [![GitHub Streak](https://streak-stats.demolab.com?user=nuzair46&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)](https://redisa.dev)
-
 <center>
 <div align="center">
+
+[![Red's github stats](https://github-readme-stats.vercel.app/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://redisa.dev)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuzair46&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)](https://redisa.dev)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzair46&layout=compact&theme=radical&hide_border=true)](https://redisa.dev)
 
