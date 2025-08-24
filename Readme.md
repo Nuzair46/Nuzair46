@@ -23,6 +23,10 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzair46&layout=compact&theme=radical&hide_border=true)](https://redisa.dev)
 
+<a href="https://redisa.dev">
+  <img src="https://github.com/Nuzair46/Nuzair46/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="600" alt="Stats"/>
+</a>
+
 Contact me at [red@redisa.dev](mailto:red@redisa.dev) or check out my [website](https://redisa.dev) for more contact options.
 
 </div>
