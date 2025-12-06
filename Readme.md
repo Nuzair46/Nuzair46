@@ -17,11 +17,11 @@
 <center>
 <div align="center">
 
-[![Red's github stats](https://github-readme-stats.vercel.app/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://redisa.dev)
+[![Red's github stats](https://gstats.buddies-dev.de/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://redisa.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nuzair46&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)](https://redisa.dev)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzair46&layout=compact&theme=radical&hide_border=true)](https://redisa.dev)
+[![Top Languages](https://gstats.buddies-dev.de/api/top-langs/?username=Nuzair46&layout=compact&theme=radical&hide_border=true)](https://redisa.dev)
 
 <a href="https://redisa.dev">
   <img src="https://github.com/Nuzair46/Nuzair46/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="600" alt="Stats"/>
