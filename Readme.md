@@ -12,7 +12,7 @@
 </center>
 
 - Love Ruby on Rails[,](https://youtu.be/dQw4w9WgXcQ) Learning Go.
-- Tech lead at [MoneyForward](https://moneyforward.com/) in the morning, [Miqor](https://miqor.app/) and Open Source contribution by night. 
+- Tech lead at [MoneyForward](https://moneyforward.com/) in the morning, [Quory](https://quory.io/) and Open Source contribution by night. 
 - Ex-Software Engineer [BigBinary](https://www.bigbinary.com/).
 <center>
 <div align="center">
